@@ -1,6 +1,6 @@
 import { saludar } from  './js/componentes';
 import './styles.css';
 
-const nombre = 'entidad mexicana de acreditación';
+const nombre = 'Bienvenidos a WebPack';
 
 saludar( nombre );
